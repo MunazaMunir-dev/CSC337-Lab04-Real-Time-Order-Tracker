@@ -1,3 +1,9 @@
+<img width="1920" height="1080" alt="Screenshot (306)" src="https://github.com/user-attachments/assets/d32adbb5-2eef-4b65-83e6-7348f8d7896c" />
+<img width="1920" height="1080" alt="Screenshot (305)" src="https://github.com/user-attachments/assets/f389c219-d6da-4761-a1da-efdd27dd04a0" />
+<img width="1920" height="1080" alt="Screenshot (304)" src="https://github.com/user-attachments/assets/4870a3e4-ada8-4424-be53-ce44d42062de" />
+<img width="1920" height="1080" alt="Screenshot (303)" src="https://github.com/user-attachments/assets/394ca09b-cb66-4556-8039-d46a6a7cc91c" />
+<img width="1920" height="1080" alt="Screenshot (302)" src="https://github.com/user-attachments/assets/08bd2940-e669-4cab-b77d-9fe4c7c901f6" />
+<img width="1920" height="1080" alt="Screenshot (301)" src="https://github.com/user-attachments/assets/3a1339ca-b50b-44d6-ba0b-5b156400e636" />
 # CSC337 Lab Assignment 04 — Real-Time Order Tracker & Live Support System
 
 A full-stack demonstration of REST, WebSockets/Socket.IO, JSON-RPC 2.0 and Server-Sent Events (SSE).
