@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client';
 import { io } from 'socket.io-client';
 import './styles.css';
 
-const API = import.meta.env.VITE_API_URL || 'http://localhost:5000';
+const API = import.meta.env.VITE_API_URL || 'https://csc-337-lab04-real-time-order-track-teal.vercel.app';
 
 function App() {
   const [orders, setOrders] = useState([]);
